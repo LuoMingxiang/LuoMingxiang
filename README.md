@@ -31,7 +31,8 @@
 <a href="https://gitee.com/LuoMingxiang"><img src="https://img.shields.io/badge/Gitee-LuoMingxiang-blue?logo=gitee" /></a>
 <a href="https://wakatime.com/@LuoMingxiang"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
 </p>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Per%20aspera%20ad%20is%20astra!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
