@@ -10,7 +10,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=LuoMingxiang&theme=tokyonight&bg_color=ffffff00&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&count_private=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=LuoMingxiang&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly alt="GitHub Streak" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=LuoMingxiang&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LuoMingxiang&theme=tokyo-night&bg_color=ffffff00&hide_border=true&area=true&custom_title=Contribution%20Graph" />
