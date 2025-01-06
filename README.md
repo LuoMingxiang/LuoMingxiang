@@ -29,6 +29,8 @@
 <a href="https://github.com/LuoMingxiang"><img src="https://img.shields.io/badge/GitHub-LuoMingxiang-blue?logo=github" /></a>
 <a href="https://gitee.com/LuoMingxiang"><img src="https://img.shields.io/badge/Gitee-LuoMingxiang-blue?logo=gitee" /></a>
 <a href="https://wakatime.com/@0cf0995c-a0d4-40b0-b2eb-fcedeafe1410"><img src="https://wakatime.com/badge/user/0cf0995c-a0d4-40b0-b2eb-fcedeafe1410.svg" alt="Total time coded since Jul 12 2023" /></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=LuoMingxiang.LuoMingxiang" alt="visitor badge"/>
+</p>
 </p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
