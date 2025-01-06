@@ -8,14 +8,10 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+page!;I'm+a+programmer+who+creates%F0%9F%9A%80"
     alt="Typing SVG" />
 </p>
-<p align="center">
-  <ul style="width: 450px; margin: 0px auto 10px auto;">
-    <li style=" list-style: none">👋 Hi, I'm LuoMingxiang</li>
-    <li style=" list-style: none">🔭 I'm currently working on frontend development</li>
-    <li style=" list-style: none">📖 My motto: Per aspera ad astra.(循此苦旅，以抵繁星)</li>
-  </ul>
-</p>
-
+<ul align="center">
+  <li type="none">🔭 I'm currently working on frontend development</li>
+  <li type="none">📖 My motto: Per aspera ad astra.(循此苦旅，以抵繁星)</li>
+</ul>
 <!-- https://github.com/badges/shields -->
 <p align="center">
   <a href="https://github.com/LuoMingxiang"
