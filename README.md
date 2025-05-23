@@ -60,7 +60,7 @@
   <!-- https://github.com/LelouchFR/skill-icons -->
   <img
     align="center"
-    src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,nodejs,tailwindcss,sass,vue,pinia,prisma,nest,figma,md,git,au,ai,ps,pr,jquery,mysql,obsidian" />
+    src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,nodejs,tailwindcss,unocss,sass,vue,nuxt,react,pinia,prisma,nestjs,supabase,figma,md,git,au,ai,ps,pr,jquery,mysql,obsidian,git,githubpages,vscode,githubcopilot" />
 </p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
